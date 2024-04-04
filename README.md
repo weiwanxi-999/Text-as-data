@@ -1,2 +1,4 @@
 # Text-as-data
-what i need to do in this class
+what i learn in this class
+
+<br>0401 bag of words
